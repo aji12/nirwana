@@ -1,2 +1,0 @@
-# nirwana
-bot pembatu
